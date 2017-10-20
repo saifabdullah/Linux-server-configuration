@@ -1,8 +1,7 @@
-
-- The name of the lightsail instance created for this course is saif-aws
-- Static IP: 34.228.50.144   SSH Port : 2200    user: grader password: grader
-- Url for catalog application hosted on this server: catalog.saifabdullah.xyz
-- Summary List of softwares Installed:
+**The name of the lightsail instance created for this course is saif-aws**
+**Static IP: 34.228.50.144   SSH Port : 2200    user: grader password: grader**
+**Url for catalog application hosted on this server:** *catalog.saifabdullah.xyz*
+**Summary List of softwares Installed:**
     - Flask
     - Python 2.7
     - Sqlalchemy
@@ -11,11 +10,11 @@
     - Apache 2
     - Postgresql-10
     
-- Configuration changes made to run this project:
+**Configuration changes made to run this project:**
 
     - Enabled catalog.conf in Apache server to run the catalog app.
     - Configured catalog.conf to serve the catalog.wsgi app.
-    - Changed threads number and process number in catalog.conf for better performance.
+    - Changed threads number and process number in catalog.conf.
     - Configure WSGI DaemonProcess for catalog app.
     - Configured catalog.wsgi with appropriate paths and file names.
     - Configured catalog.py and init.py to in line with catalog.wsgi
@@ -33,5 +32,4 @@
     - Generated a ssh-key pair for grader in my local pc and uploaded it in lightsail server
     - Created a .htacess file in webroot and edited it to deny access to the server's .git directories from the web.
     - Changed the local timezone to UTC.
-    - Changed the ownership of the /var/www/catalog directory.
-    
+    - Changed the ownership of the /var/www/catalog directory
