@@ -1,6 +1,9 @@
 **The name of the lightsail instance created for this course is saif-aws**
-**Static IP: 34.228.50.144   SSH Port : 2200    user: grader password: grader**
-**Url for catalog application** *catalog.saifabdullah.xyz*
+**Static IP: 34.228.50.144   SSH Port : 2200  
+user: grader password: grader**
+**Url for catalog application** 
+*catalog.saifabdullah.xyz*
+
 **Summary List of softwares Installed:**
     - Flask
     - Python 2.7
@@ -37,16 +40,16 @@
 
 **List of Third-party resources used in this project**
 
-- Digital Ocean tutorials for server setup, database setup, ssh-port setup etc. http://www.digitalocean.com
-- PostgreSQL tutorials at http://www.postgresqltutorial.com
-- Error correction for server setup, database setup at stack-overflow. https://stackoverflow.com/
-- Discussion forums at Udacity for Linux Server Project
-- Amazon Lightsail documentation.
-- Live help and articles at http://www.namecheap.com
-- www.serverfault.com
-- www.askubuntu.com
-- www.tutorialspoint.com
-- Postgresql documentation
-- Flask documentation
-- Mod-wsgi documentation
-- Apache documentation
+    - Digital Ocean tutorials for server setup, database setup, ssh-port setup etc. http://www.digitalocean.com
+    - PostgreSQL tutorials at http://www.postgresqltutorial.com
+    - Error correction for server setup, database setup at stack-overflow. https://stackoverflow.com/
+    - Discussion forums at Udacity for Linux Server Project
+    - Amazon Lightsail documentation.
+    - Live help and articles at http://www.namecheap.com
+    - www.serverfault.com
+    - www.askubuntu.com
+    - www.tutorialspoint.com
+    - Postgresql documentation
+    - Flask documentation
+    - Mod-wsgi documentation
+    - Apache documentation
