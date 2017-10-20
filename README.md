@@ -1,6 +1,6 @@
 **The name of the lightsail instance created for this course is saif-aws**
 **Static IP: 34.228.50.144   SSH Port : 2200    user: grader password: grader**
-**Url for catalog application hosted on this server:** *catalog.saifabdullah.xyz*
+**Url for catalog application** *catalog.saifabdullah.xyz*
 **Summary List of softwares Installed:**
     - Flask
     - Python 2.7
@@ -33,3 +33,20 @@
     - Created a .htacess file in webroot and edited it to deny access to the server's .git directories from the web.
     - Changed the local timezone to UTC.
     - Changed the ownership of the /var/www/catalog directory
+
+
+**List of Third-party resources used in this project**
+
+- Digital Ocean tutorials for server setup, database setup, ssh-port setup etc. http://www.digitalocean.com
+- PostgreSQL tutorials at http://www.postgresqltutorial.com
+- Error correction for server setup, database setup at stack-overflow. https://stackoverflow.com/
+- Discussion forums at Udacity for Linux Server Project
+- Amazon Lightsail documentation.
+- Live help and articles at http://www.namecheap.com
+- www.serverfault.com
+- www.askubuntu.com
+- www.tutorialspoint.com
+- Postgresql documentation
+- Flask documentation
+- Mod-wsgi documentation
+- Apache documentation
